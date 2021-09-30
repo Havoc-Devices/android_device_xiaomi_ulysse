@@ -1,0 +1,27 @@
+[
+ {
+   "repository"  : "android_device_xiaomi_ulysse",
+   "target_path" : "device/xiaomi/ulysse",
+   "branch"      : "eleven"
+ },
+ {
+   "repository"  : "android_device_xiaomi_ulysse-common",
+   "target_path" : "device/xiaomi/ulysse-common",
+   "branch"      : "eleven"
+ },
+ {
+   "repository"  : "android_vendor_xiaomi_ulysse-common",
+   "target_path" : "vendor/xiaomi/ulysse-common",
+   "branch"      : "eleven"
+ },
+ {
+   "repository"  : "android_vendor_xiaomi_ugg",
+   "target_path" : "vendor/xiaomi/ugg",
+   "branch"      : "eleven"
+ },
+ {
+   "repository"  : "mgs28-mh/kernel_xiaomi_ulysse-4.9",
+   "target_path" : "kernel/xiaomi/ulysse",
+   "branch"      : "11"
+ }
+]
